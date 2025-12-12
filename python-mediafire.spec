@@ -1,6 +1,6 @@
 Name:		python-mediafire
 Version:	0.6.1
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/m/mediafire/mediafire-%{version}.tar.gz
 Summary:	Python MediaFire client library
 URL:		https://pypi.org/project/mediafire/
