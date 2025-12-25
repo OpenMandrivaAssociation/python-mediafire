@@ -6,7 +6,6 @@ Summary:	Python MediaFire client library
 URL:		https://pypi.org/project/mediafire/
 License:	BSD
 Group:		Development/Python
-BuildRequires:	python
 BuildSystem:	python
 BuildArch:	noarch
 
